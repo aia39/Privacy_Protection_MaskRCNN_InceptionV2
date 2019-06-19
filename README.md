@@ -17,7 +17,7 @@ Demo of this work:
 2. Install dependencies
 (OpenCV 3.4.3. or above,numpy and other basic dependencies which is usually used)
 
-3. Download pre-trained COCO weights (frozen_inference_graph.pb) from the [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md).Download it from mask_rcnn_inception_v2_coco and you need to put frozen_inference_graph.pb file in mask-rcnn-coco after extraction.
+3. Download pre-trained COCO weights (frozen_inference_graph.pb) from the [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md). Download it from mask_rcnn_inception_v2_coco and you need to put frozen_inference_graph.pb file in mask-rcnn-coco after extraction.
 
 
 # Getting Started
@@ -27,11 +27,13 @@ It takes videos from a folder named 'nextbatchRun'(You should create one and put
 
 # To know more about it
 *[Paper on MaskRCNN](https://arxiv.org/abs/1703.06870)
+
 *[Paper on MaskRCNN](https://www.freecodecamp.org/news/mask-r-cnn-explained-7f82bec890e3/)
-*
+
 
 ## Acknowledgement 
 Tons of code was downloaded from theirs repo and website
-https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+*https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
+
+*https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
