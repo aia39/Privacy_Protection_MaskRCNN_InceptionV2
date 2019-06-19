@@ -25,6 +25,12 @@ Demo of this work:
 * [Privacy_Protected_Video.py](Privacy_Protected_Video.py) This is the main code to run for this project.It runs on a video or on an image(You can find both in this code,one may be commented out).We ran this code for our vip cup dataset and saved it into Mp4 format.
 It takes videos from a folder named 'nextbatchRun'(You should create one and put any video in it which you want as input) and put the output actually protected video to 'output' folder(You should create this also).
 
+# Demo video of MaskRCNN Inception V2
+# https://www.youtube.com/watch?v=Yqj7h7qw1Mw
+# https://www.youtube.com/watch?v=Mbv6g676cNE
+
+
+
 # To know more about it
 *[Paper on MaskRCNN](https://arxiv.org/abs/1703.06870)
 
