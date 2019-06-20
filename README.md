@@ -27,12 +27,14 @@ If you need help you can check (https://jeanvitor.com/cpp-opencv-windonws10-inst
 It takes videos from a folder named 'nextbatchRun'(You should create one and put any video in it which you want as input) and put the output actually protected video to 'output' folder(You should create this also).
 
 ##Demo video of MaskRCNN Inception V2
-# https://www.youtube.com/watch?v=Yqj7h7qw1Mw
-# https://www.youtube.com/watch?v=Mbv6g676cNE
+
+ *https://www.youtube.com/watch?v=Yqj7h7qw1Mw
+ *https://www.youtube.com/watch?v=Mbv6g676cNE
 
 
 
 ##To know more about it
+
 *[Paper on MaskRCNN](https://arxiv.org/abs/1703.06870)
 
 *[Paper on MaskRCNN](https://www.freecodecamp.org/news/mask-r-cnn-explained-7f82bec890e3/)
@@ -40,6 +42,7 @@ It takes videos from a folder named 'nextbatchRun'(You should create one and put
 
 ## Acknowledgement 
 Tons of code was downloaded from theirs repo and website
+
 *https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
 
 *https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
