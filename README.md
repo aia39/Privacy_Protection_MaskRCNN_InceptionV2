@@ -24,7 +24,7 @@ If you need help you can check (https://jeanvitor.com/cpp-opencv-windonws10-inst
 # Getting Started
 * [mask_rcnn.py](mask_rcnn.py) You can run this pretrained model on this code.Here you will get the visualization how this detection model generate bounding box and mask.But it works only on image.(Before running it don't forget to change your code directory to this main folder)
 * [Privacy_Protected_Video.py](Privacy_Protected_Video.py) This is the main code to run for this project.It runs on a video or on an image(You can find both in this code,one may be commented out).We ran this code for our vip cup dataset and saved it into Mp4 format.
-It takes videos from a folder named 'nextbatchRun'(You should create one and put any video in it which you want as input) and put the output actually protected video to 'output' folder(You should create this also).
+It takes videos from a folder named 'nextbatchRun'(You should create one and put any video in it which you want as input) and put the output actually protected video to 'output' folder(You should create this also).There is also an option to run this on a single image which is commented in the code.
 
 ##Demo video of MaskRCNN Inception V2
 
